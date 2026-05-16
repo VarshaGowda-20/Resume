@@ -29,4 +29,4 @@ Welcome to the repository of my personal portfolio website! As an aspiring **Mac
 To view the site locally on your machine:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/VarshaGowda-20/Resume.git
