@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal portfolio website! As an aspiring **Machine Learning Engineer and Data Analyst**, I built this site to showcase my technical skills, academic journey, certifications, and real-world ML projects.
 
-🔗 **Live Preview:** [Insert Link Here (e.g. GitHub Pages)]
+🔗 Live Preview: https://github.com/VarshaGowda-20/Resume/tree/88bb5004a67f6c8492d3a75ceffdeb4d96782a6c/Resume
 
 ## 🚀 Features
 - **Dynamic Dark/Light Mode:** Integrated theme toggle that remembers user preferences via local storage.
@@ -29,4 +29,4 @@ Welcome to the repository of my personal portfolio website! As an aspiring **Mac
 To view the site locally on your machine:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VarshaGowda-20/Resume.git
+   git clone [https://github.com/VarshaGowda-20/Resume.git](https://github.com/VarshaGowda-20/Resume/tree/88bb5004a67f6c8492d3a75ceffdeb4d96782a6c/Resume)
